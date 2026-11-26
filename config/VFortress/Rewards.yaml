@@ -1,0 +1,76 @@
+rewards:
+  coin:
+    resourceCost: 5
+    requiredBoss: None
+    resourcePrefab: Coins
+    enabled: true
+  wood:
+    resourceCost: 12
+    requiredBoss: Eikythr
+    resourcePrefab: Wood
+    enabled: true
+  corewood:
+    resourceCost: 20
+    requiredBoss: BoneMass
+    resourcePrefab: RoundLog
+    enabled: true
+  finewood:
+    resourceCost: 26
+    requiredBoss: Moder
+    resourcePrefab: FineWood
+    enabled: true
+  ashwood:
+    resourceCost: 50
+    requiredBoss: Fader
+    resourcePrefab: blackwood
+    enabled: true
+  copper:
+    resourceCost: 45
+    requiredBoss: TheElder
+    resourcePrefab: CopperOre
+    enabled: true
+  tin:
+    resourceCost: 40
+    requiredBoss: TheElder
+    resourcePrefab: TinOre
+    enabled: true
+  iron:
+    resourceCost: 60
+    requiredBoss: BoneMass
+    resourcePrefab: IronScrap
+    enabled: true
+  silver:
+    resourceCost: 70
+    requiredBoss: Moder
+    resourcePrefab: SilverOre
+    enabled: true
+  blackmetal:
+    resourceCost: 80
+    requiredBoss: Yagluth
+    resourcePrefab: BlackMetalScrap
+    enabled: true
+  flametal:
+    resourceCost: 160
+    requiredBoss: Fader
+    resourcePrefab: FlametalNew
+    enabled: true
+  tar:
+    resourceCost: 60
+    requiredBoss: Yagluth
+    resourcePrefab: Tar
+    enabled: true
+  guck:
+    resourceCost: 40
+    requiredBoss: BoneMass
+    resourcePrefab: Guck
+    enabled: false
+  sap:
+    resourceCost: 100
+    requiredBoss: TheQueen
+    resourcePrefab: Sap
+    enabled: true
+  softtissue:
+    resourceCost: 140
+    requiredBoss: TheQueen
+    resourcePrefab: Softtissue
+    enabled: true
